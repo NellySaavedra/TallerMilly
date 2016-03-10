@@ -1,0 +1,107 @@
+* {
+	font-family: Franklin Gothic Book;
+}
+.Background {
+	width: 100%;
+	z-index: -1;
+	position: absolute;
+}
+.strech {
+	width: 100%;
+}
+h1 {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	opacity: .6;
+}
+.GrecaT {
+	text-align: center;
+	opacity: .5;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+ul {
+	text-align: center;
+}
+li {
+	display: inline-block;
+	margin: 20px 5px;
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.Ico {
+	width: 20px;
+	height: 20px;
+	opacity: .9;
+	padding-top: 2px;
+}
+/*Arreglo de Panel1*/
+.Panel1{
+	width: 50%;
+	background: gray;
+	color: black;
+	opacity: .3;
+	margin-top: 200px;
+	padding: 90px;
+}
+.B {
+	width: 100%;
+	padding: 60px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: black;
+	color: white;
+}
+.Frase1 {
+	text-align: center;
+	margin: 50px 70px;
+	color: #A0AFBF;
+}
+.ImgP2 {
+	width: 100%;
+	margin-top: 10px;
+}
+.TexP2 {
+	width: 100%;
+	text-align: justify;
+	margin-top: 40px;
+	
+}
+h3 {
+	padding-top: 10px;
+}
+.BackP2 {
+	background-image: url(Img/fondo2.png);
+	margin-top: 10px;
+	width: 100%;
+	height: 211px;
+}
+.BackBarco {
+	background-image: url("Img/img5.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+	width: 100%;
+	height: 600px;
+}
+.Barco {
+	margin-top: 160px;
+}
+.PanelBarco {
+	width: 60%;
+	text-align: center;
+	padding: 10px;
+	margin-left: 110px;
+}
+
+.MarcoTexBarco {
+	width: 60%;
+	margin-left: 55%;
+	background-color: black;
+	color: white;
+	opacity: .5;
+}
